@@ -63,7 +63,7 @@ The Stand-N-Move Chair utilizes a combination of cutting-edge technologies to de
 3. **Joystick Control**: The joystick is connected to the chair's control unit, allowing users to move in any direction and control the chair's speed with ease.
 
 ## Final Prototype
-![Final Prototype](https://www.example.com/openai-logo.png)
+![Final Prototype](Documents/final_product.jpg)
 
 
 
