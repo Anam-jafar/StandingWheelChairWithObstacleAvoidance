@@ -4,6 +4,20 @@
 
 The "Stand-N-Move Chair" is an innovative electric wheelchair designed to revolutionize the mobility experience for users with limited mobility. This project aims to empower individuals with mobility challenges, particularly those who wish to stand and control their movement using intuitive head movements. The key features of the Stand-N-Move Chair include a standing mechanism, obstacle avoidance, and control via a joystick.
 
+
+## Project Goals
+
+The Stand-N-Move Chair project aims to achieve the following objectives:
+
+- Improve the mobility and quality of life for individuals with limited mobility.
+
+- Ensure the safety of users through advanced obstacle avoidance technology.
+
+- Enhance user autonomy and independence through intuitive joystick control.
+
+- Promote social inclusion by enabling users to stand and interact with others at eye level.
+- 
+
 ## Features
 
 ### 1. Standing Mechanism
@@ -48,17 +62,10 @@ The Stand-N-Move Chair utilizes a combination of cutting-edge technologies to de
 
 3. **Joystick Control**: The joystick is connected to the chair's control unit, allowing users to move in any direction and control the chair's speed with ease.
 
-## Project Goals
+## Final Prototype
+![Final Prototype](https://www.example.com/openai-logo.png)
 
-The Stand-N-Move Chair project aims to achieve the following objectives:
 
-- Improve the mobility and quality of life for individuals with limited mobility.
-
-- Ensure the safety of users through advanced obstacle avoidance technology.
-
-- Enhance user autonomy and independence through intuitive joystick control.
-
-- Promote social inclusion by enabling users to stand and interact with others at eye level.
 
 ## Future Enhancements
 
